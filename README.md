@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/VishalTheHuman/)
 ## 🧑‍💻 Leetcode Stats
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/VishalTheHuman?theme=unicorn"/>
+  <img  src="https://leetcard.jacoblin.cool/VishalTheHuman?theme=dark&font=ABeeZee&ext=heatmap"/>
 </p>
+
